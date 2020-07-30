@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">appmusica</string>
+    <string name="inicio_app">Home</string>
+    <string name="buscar_cancion">Search</string>
+    <string name="favoritos">Favorites</string>
+    <string name="title_activity_search">Search</string>
+    <string name="buscar_pregunta">Search </string>
+    <string name="searchtext">Find artists, tracks, albums and lists</string>
+    <string name="texto1favoritos">Your likes, playlist,albums and stations. All in one place.</string>
+    <string name="texto2favoritos">Welcome to your new collection, a single destination for your sounds.</string>
+    <string name="lista_menu">List</string>
+</resources>
